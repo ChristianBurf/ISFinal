@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://i0.wp.com/grandvalleydesign.com/wp-content/uploads/2012/12/website-background.gif);
+    background-repeat: repeat;
+    background-size: contain;}
+
+    .title {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: beige;
+        font-size: 0.5 rem; /* adjust the font size to your liking */
+        font-weight: ligther; /* adjust the font weight to your liking */
+        text-align: center; /* center the text */
+        margin: 3px auto 0; /* horizontally center the element */
+        max-width: 500px;
+        text-decoration: underline;}
+
+    .heading {
+        font-family: Arial, sans-serif;
+        color: beige;
+        font-size: 0.5 rem; /* adjust the font size to your liking */
+        font-weight: ligther; /* adjust the font weight to your liking */
+        text-align: center; /* center the text */
+        margin: 3px auto 0; /* horizontally center the element */
+        max-width: 500px; /* adjust the maximum width to your liking */
+      }
+
+      .list {
+        display: flex;
+        justify-content: center;
+        font-size: 0.9 rem;
+        font-family: "Arial", sans-serif;
+        color: darkseagreen;
+        border: 3px solid grey;
+        padding: 5px;
+        max-width: 500px;
+        margin: 0 auto; /* Center the box */
+      }
+      
+      .list ul {
+        list-style: disc;
+        margin-left: 20px;
+      }
+      
+          
+      .anchor {
+        position: fixed;
+        background-color: black;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        display: block;
+        text-align: center;}
+
+    .gallery img{
+        display: inline;
+        width: 460px;
+        border: 2px solid burlywood;
+        text-align: center;
+        margin: 8px;
+    }
+
+    .tableau {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        color: darkseagreen;
+        border: 3px solid grey;
+        padding: 5px;
+        max-width: 500px;
+        margin: 0 auto;
+      }
+      
+      .tableau iframe {
+        margin: auto;
+        display: block;
+      }
+      
+      
